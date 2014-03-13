@@ -1,6 +1,1 @@
-[submodule "lib/fuzzy"]
-	path = lib/fuzzy
-	url = https://github.com/auto-complete/fuzzy-el.git
-[submodule "lib/popup"]
-	path = lib/popup
-	url = https://github.com/auto-complete/popup-el.git
+
